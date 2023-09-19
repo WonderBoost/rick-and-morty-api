@@ -11,6 +11,15 @@
     event-pubsub "4.3.0"
     js-message "1.0.7"
 
+"@achrinza/node-ipc@9.2.4":
+  version "9.2.4"
+  resolved "https://registry.yarnpkg.com/@achrinza/node-ipc/-/node-ipc-9.2.4.tgz#273bd21392b13e7be087f62752f3b6e4bc35966e"
+  integrity sha512-HFSo3A2+BqUmtygZTIEhFhJuAOnvr+ZatdnoCnPvyhO9AdGrbcpG1VSCUHvC2d1hyZTFGmmViRhh5r8iUEor1g==
+  dependencies:
+    "@node-ipc/js-queue" "2.0.3"
+    event-pubsub "4.3.0"
+    js-message "1.0.7"
+
 "@achrinza/node-ipc@^9.2.5":
   version "9.2.7"
   resolved "https://registry.yarnpkg.com/@achrinza/node-ipc/-/node-ipc-9.2.7.tgz#cc418f9218d24d9b87f32207e5d6e71c64e241f8"
